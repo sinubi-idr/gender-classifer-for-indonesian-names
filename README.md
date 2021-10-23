@@ -1,6 +1,6 @@
 # gender-classifer-for-indonesian-names
 
-Predict Gender by Name for Indonesian Names.
+Predicting Gender by Name for Indonesian Names.
 
 <b> Training Data </b>   : Indonesian Actors and Actresses from Wikipedia <br>
 <b> Text-Processing </b> : <br>
